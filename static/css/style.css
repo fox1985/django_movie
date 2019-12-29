@@ -45,6 +45,18 @@ h6 {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+.img-movie-shots{
+    max-width:250px;
+    height: 150px;
+}
+
+.img-poster{
+    max-width:400px;
+    height:600px;
+}
+
+
+
 p {
     font-size: 0.9em;
     color: #8c9398;
@@ -1549,6 +1561,9 @@ a.move-top span {
     }
 
 }
+
+
+
 
 @media(max-width:414px) {
     .banner-info {
